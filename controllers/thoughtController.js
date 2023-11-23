@@ -1,4 +1,4 @@
-
+const { restart } = require("nodemon");
 const Thought = require("../models/thought");
 const User = require("../models/user");
 
