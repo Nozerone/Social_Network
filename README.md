@@ -45,7 +45,7 @@
    posadas79@gmail.com
 
    ### Repo app link
-   [github repo] (https://github.com/Nozerone/nosql-social-network-api)
+   [github repo] (https://github.com/Nozerone/Social_Network)
 
    ### App Screenshots
     ![Alt text](assets/screenshot_1.png) 
